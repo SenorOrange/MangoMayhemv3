@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/New folder/New folder/Mango Mayhem/Packages/manifest.json
+    m_FilePath: E:/Projects/MangoMayhem/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638307579838117088
-    m_Hash: 1550935403
+      ticks: 638308229274363143
+    m_Hash: 3374202769
   m_LockFileStatus:
-    m_FilePath: E:/New folder/New folder/Mango Mayhem/Packages/packages-lock.json
+    m_FilePath: E:/Projects/MangoMayhem/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638307580333456917
-    m_Hash: 803539649
+      ticks: 638308229274563625
+    m_Hash: 3849092578
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: E:/New folder/New folder/Mango Mayhem/Packages
+m_ProjectPath: E:/Projects/MangoMayhem/Packages
 m_EditorVersion: 2023.1.13f1 (ffeab063bb93)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.0.7
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.7
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.collab-proxy@2.0.7
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.collab-proxy@2.0.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -188,7 +188,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.feature.2d@2.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.feature.2d@2.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -253,7 +253,7 @@ m_ResolvedPackages:
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
-    version: 1.3.7
+    version: 1.3.9
   - name: com.unity.ext.nunit
     version: 2.0.3
   - name: com.unity.2d.pixel-perfect
@@ -314,7 +314,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.feature.mobile@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.feature.mobile@1.0.0
   assetPath: Packages/com.unity.feature.mobile
   name: com.unity.feature.mobile
   displayName: Mobile
@@ -388,12 +388,12 @@ m_ResolvedPackages:
   upmReserved: '{"quickstart":"https://docs.unity3d.com/2021.2/Documentation/Manual/MobileFeature.html"}'
   assetStore:
     productId: 
-- packageId: com.unity.ide.rider@3.0.24
+- packageId: com.unity.ide.rider@3.0.25
   testable: 0
   isDirectDependency: 1
-  version: 3.0.24
+  version: 3.0.25
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.ide.rider@3.0.24
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.ide.rider@3.0.25
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -473,13 +473,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221653400000000
+  datePublishedTicks: 638300315270000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: f5decc642e3618ce1c6827d47318260e61d64714
+    revision: e103b4771a884e656407e1b7219e5e3c20222552
     path: 
   unityLifecycle:
     version: 3.0.24
@@ -492,16 +492,16 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"- fix [RIDER-91705](https://youtrack.jetbrains.com/issue/RIDER-91705).
-    Improve UnitTesting support\n - support JetBrains Toolbox App 2.0"}'
+  upmReserved: '{"changelog":"- unification of functionality to  search JetBrains
+    installations and open solution and file in Rider"}'
   assetStore:
     productId: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+- packageId: com.unity.ide.visualstudio@2.0.21
   testable: 0
   isDirectDependency: 1
-  version: 2.0.18
+  version: 2.0.21
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.ide.visualstudio@2.0.21
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -510,7 +510,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -552,7 +552,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.3.7
+    version: 1.3.9
   - name: com.unity.ext.nunit
     version: 2.0.3
   - name: com.unity.modules.imgui
@@ -572,13 +572,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638300315250000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: eb2b500b99f6429d3d9dcb8acbcbd366dfbb42be
     path: 
   unityLifecycle:
     version: 2.0.18
@@ -591,9 +591,14 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"Integration:\n\n- Performance improvements with `EditorApplication.update`
-    callbacks.\n \nProject generation:\n\n- Add extra compiler options for analyzers
-    and source generators."}'
+  upmReserved: '{"changelog":"Integration:\n\n- Only disable the legacy `com.unity.ide.vscode`
+    package going forward.\n- Fix json parsing issues with specific non-UTF code
+    pages.\n\nProject generation:\n\n- Target `netstandard2.1` instead of `netstandard2.0`.\n-
+    Set `defaultSolution` in `settings.json`.\n- Remove `files.exclude` entries for
+    root `csproj` and `sln` files in `settings.json` when needed.\n- Add `vstuc`
+    launch configuration to `launch.json` when needed.\n- Add `visualstudiotoolsforunity.vstuc`
+    entry to `extensions.json` when needed.\n- You can prevent the package from patching
+    those configuration files by creating a `.vscode/.vstupatchdisable` file."}'
   assetStore:
     productId: 
 - packageId: com.unity.ide.vscode@1.2.5
@@ -601,7 +606,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -685,12 +690,12 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-- packageId: com.unity.test-framework@1.3.7
+- packageId: com.unity.test-framework@1.3.9
   testable: 0
   isDirectDependency: 1
-  version: 1.3.7
+  version: 1.3.9
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.test-framework@1.3.7
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.test-framework@1.3.9
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -791,13 +796,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221794830000000
+  datePublishedTicks: 638283169810000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 468e2ea5f976e8dee4bb02a4e9714155745c941e
+    revision: 5c8a1448cee4d7607be0d60dceb66703b0cfe016
     path: 
   unityLifecycle:
     version: 1.3.7
@@ -824,7 +829,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1006,12 +1011,12 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-- packageId: com.unity.timeline@1.8.2
+- packageId: com.unity.timeline@1.8.5
   testable: 0
   isDirectDependency: 1
-  version: 1.8.2
+  version: 1.8.5
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.timeline@1.8.2
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.timeline@1.8.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1020,7 +1025,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
@@ -1153,13 +1158,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638143790900000000
+  datePublishedTicks: 638290078460000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: a60d9f471eee76056ecbc8c94f5bec263478a9c0
+    revision: adf26616812f0b35ad32a28597af1213199265c2
     path: 
   unityLifecycle:
     version: 1.8.2
@@ -1172,9 +1177,13 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n\n- Fixed issue where previewing the Timeline
-    would create prefab property modifications\n- Fixed issue where `ClipEditor.OnClipChanged`
-    was not invoked when changing the object assigned to a `ExposedReference<UnityEngine.Object>`."}'
+  upmReserved: '{"changelog":"### Added\n\n- Added two new workflows to the Timeline
+    Workflows documentation:\n- The `Use markers and signals for footsteps` workflow
+    demonstrates how to use Timeline markers, Signal assets, and Signal Receiver
+    components to play audio sources for footsteps.\n- The `Create a Sub-Timeline
+    instance` workflow demonstrates how to create a single cut-scene by nesting a
+    Timeline instance within another Timeline instance.\n\n### Fixed\n\n- Fixed playback
+    and recording when Timeline is linked with the Animation Window."}'
   assetStore:
     productId: 
 - packageId: com.unity.ugui@1.0.0
@@ -1182,7 +1191,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1261,7 +1270,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.0
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.visualscripting@1.8.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.visualscripting@1.8.0
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1367,7 +1376,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1430,7 +1439,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1492,7 +1501,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1555,7 +1564,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1618,7 +1627,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1681,7 +1690,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1748,7 +1757,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1819,7 +1828,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1882,7 +1891,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1945,7 +1954,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2008,7 +2017,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2071,7 +2080,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2134,7 +2143,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2197,7 +2206,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2264,7 +2273,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2327,7 +2336,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2398,7 +2407,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2464,7 +2473,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2527,7 +2536,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2602,7 +2611,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2665,7 +2674,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2736,7 +2745,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2799,7 +2808,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2870,7 +2879,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2941,7 +2950,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3012,7 +3021,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3099,7 +3108,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3166,7 +3175,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3241,7 +3250,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3318,7 +3327,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3381,7 +3390,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3456,7 +3465,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3523,7 +3532,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.3
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.ext.nunit@2.0.3
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.ext.nunit@2.0.3
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3602,7 +3611,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.mobile.android-logcat@1.3.2
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.mobile.android-logcat@1.3.2
   assetPath: Packages/com.unity.mobile.android-logcat
   name: com.unity.mobile.android-logcat
   displayName: Android Logcat
@@ -3685,7 +3694,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.0
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.adaptiveperformance@5.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.adaptiveperformance@5.0.0
   assetPath: Packages/com.unity.adaptiveperformance
   name: com.unity.adaptiveperformance
   displayName: Adaptive Performance
@@ -3837,7 +3846,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.2.1
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.mobile.notifications@2.2.1
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.mobile.notifications@2.2.1
   assetPath: Packages/com.unity.mobile.notifications
   name: com.unity.mobile.notifications
   displayName: Mobile Notifications
@@ -3954,7 +3963,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.0.2
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.animation@10.0.2
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.animation@10.0.2
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -4123,7 +4132,7 @@ m_ResolvedPackages:
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
-    version: 1.3.7
+    version: 1.3.9
   - name: com.unity.ext.nunit
     version: 2.0.3
   keywords:
@@ -4175,7 +4184,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -4266,7 +4275,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.0
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.psdimporter@9.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.psdimporter@9.0.0
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -4428,7 +4437,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -4494,7 +4503,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 10.0.1
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.spriteshape@10.0.1
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.spriteshape@10.0.1
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -4676,7 +4685,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -4757,7 +4766,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.0.1
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.tilemap.extras@4.0.1
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.tilemap.extras@4.0.1
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -4894,7 +4903,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.aseprite@1.0.1
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.aseprite@1.0.1
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -4994,7 +5003,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.2
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.profiling.core@1.0.2
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.profiling.core@1.0.2
   assetPath: Packages/com.unity.profiling.core
   name: com.unity.profiling.core
   displayName: Unity Profiling Core API
@@ -5065,7 +5074,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.1
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.2d.common@9.0.1
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.2d.common@9.0.1
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -5205,7 +5214,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5287,7 +5296,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.4
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.collections@1.2.4
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.collections@1.2.4
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5361,6 +5370,7 @@ m_ResolvedPackages:
     - 2.1.4
     - 2.2.0
     - 2.2.1
+    - 2.3.0-exp.1
     compatible:
     - 1.2.4
     - 1.3.1
@@ -5375,6 +5385,7 @@ m_ResolvedPackages:
     - 2.1.4
     - 2.2.0
     - 2.2.1
+    - 2.3.0-exp.1
     recommended: 1.2.4
     deprecated: []
   dependencies:
@@ -5388,7 +5399,7 @@ m_ResolvedPackages:
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.test-framework
-    version: 1.3.7
+    version: 1.3.9
   - name: com.unity.ext.nunit
     version: 2.0.3
   - name: com.unity.modules.imgui
@@ -5438,7 +5449,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.8
   source: 1
-  resolvedPath: E:\New folder\New folder\Mango Mayhem\Library\PackageCache\com.unity.burst@1.8.8
+  resolvedPath: E:\Projects\MangoMayhem\Library\PackageCache\com.unity.burst@1.8.8
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
