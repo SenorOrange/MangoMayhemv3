@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5707b896deee76942bbb174506c29671
+timeCreated: 1520822740
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Scenes.unity
+  uploadId: 234372

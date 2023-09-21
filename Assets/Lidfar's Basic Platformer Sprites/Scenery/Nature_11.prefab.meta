@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eff38dfe5fb364c48bd0c2b376cf222e
+timeCreated: 1518658274
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Scenery/Nature_11.prefab
+  uploadId: 234372

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1e8b265a7927be04eabb6354c2533851
+timeCreated: 1518658079
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Items/Items_0.prefab
+  uploadId: 234372

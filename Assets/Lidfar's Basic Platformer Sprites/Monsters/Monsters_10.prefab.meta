@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba0f83f9c9794a444a61cd8e1c51d2ee
+timeCreated: 1518658179
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Monsters/Monsters_10.prefab
+  uploadId: 234372

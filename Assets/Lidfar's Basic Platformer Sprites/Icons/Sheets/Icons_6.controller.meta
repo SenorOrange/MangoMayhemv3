@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7ae0fcb652557340915e38b8255a6bc
+timeCreated: 1520822048
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Icons/Sheets/Icons_6.controller
+  uploadId: 234372

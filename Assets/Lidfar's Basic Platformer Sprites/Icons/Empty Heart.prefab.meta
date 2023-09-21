@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4133e706f94f874da6fd9e548cfc997
+timeCreated: 1518657896
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111698
+  packageName: 'Lidfar''s Basics: Platformer'
+  packageVersion: 1.0
+  assetPath: Assets/Lidfar's Basic Platformer Sprites/Icons/Empty Heart.prefab
+  uploadId: 234372
