@@ -9,18 +9,18 @@
 #        For example:
 
 #This file will be ignored by git:
-/Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylib
+#/Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylib
 
 #This folder will be ignored by git:
-Library/PackageCache/com.unity.burst@1.7.3/.Runtime/hostmac/
+#Library/PackageCache/com.unity.burst@1.7.3/.Runtime/hostmac/
 
 #The the rest of this file matches the suggested settings from GitHub for a unity project, you can remoe the # to make lines of code active.
 
-/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib
+#/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib
 
-E:/Projects/MangoMayhem/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib
+#E:/Projects/MangoMayhem/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib
 
-"E:\Projects\MangoMayhem\Library\PackageCache\com.unity.burst@1.8.8\.Runtime\libburst-llvm-15.dylib"
+#"E:\Projects\MangoMayhem\Library\PackageCache\com.unity.burst@1.8.8\.Runtime\libburst-llvm-15.dylib"
 
 #/[Ll]ibrary/
 #/[Tt]emp/
