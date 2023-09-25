@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5b3877d22858afe4fad7c4edac4ada8a
+timeCreated: 1472883802
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72267
+  packageName: Jet Kara
+  packageVersion: 1.1
+  assetPath: Assets/jetkara/Scripts/GameManager.cs
+  uploadId: 379995

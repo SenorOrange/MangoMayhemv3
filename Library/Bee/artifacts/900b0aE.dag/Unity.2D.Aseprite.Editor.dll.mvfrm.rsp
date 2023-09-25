@@ -2,6 +2,8 @@ Library\Bee\artifacts\mvdfrm\Unity.2D.Aseprite.Common.ref.dll_BA9CF936DBFDDF53.m
 Library\Bee\artifacts\mvdfrm\Unity.2D.Sprite.Editor.ref.dll_7C063CDBF8483C05.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Burst.ref.dll_A8E5747B23D134FB.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.InternalAPIEditorBridge.005.ref.dll_ED4E95E921DEA535.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.2D.Runtime.ref.dll_41FD1BE5C716F68D.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Universal.Runtime.ref.dll_A1A70B91B70D10BD.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.TestRunner.ref.dll_B78A5F2FADA65D90.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_6A0DDEC5ED23C452.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.TestRunner.ref.dll_83A8A9DDD969BB7B.mvfrm
@@ -101,6 +103,9 @@ Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Common.dll_A865BE84C127E
 Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.dll_CC8B26CCF432BF3B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Xcode.dll_618EB058E8406422.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.WindowsStandalone.Extensions.dll_9C8A383104B23F4B.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_DBC5D081C4D6AF26.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_B06B77423C8110AF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Collections.LowLevel.ILSupport.dll_2E40CE80E145E521.mvfrm

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d48c7aadfab6024198fbb9615f518ca
+timeCreated: 1472882923
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72267
+  packageName: Jet Kara
+  packageVersion: 1.1
+  assetPath: Assets/jetkara/Scenes/MainMenu.unity
+  uploadId: 379995

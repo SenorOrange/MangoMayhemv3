@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 698e5aa44a8ef274c91fa5546e86070d
+timeCreated: 1472883131
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72267
+  packageName: Jet Kara
+  packageVersion: 1.1
+  assetPath: Assets/jetkara/Animations/Cloud.controller
+  uploadId: 379995

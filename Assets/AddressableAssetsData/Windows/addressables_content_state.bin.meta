@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5a90c32fafb212418ba83e1805cd04c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/AddressableAssetsData/Windows/addressables_content_state.bin
+  uploadId: 518529
