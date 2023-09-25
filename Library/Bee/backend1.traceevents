@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1695665376780207, "dur":4902, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695665376785130, "dur":2306, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695665376787620, "dur":161, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1328,6 +1329,8 @@
 >>>>>>> parent of fadba6b7 (trial commit)
 =======
 >>>>>>> parent of fadba6b7 (trial commit)
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
 ,{ "pid":12345, "tid":0, "ts":1695329147961192, "dur":3418, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695329147964637, "dur":1722, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695329147966608, "dur":147, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1596,6 +1599,9 @@
 ,{ "pid":12345, "tid":0, "ts":1695329148094660, "dur":1079, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of fadba6b7 (trial commit)
+=======
 >>>>>>> parent of fadba6b7 (trial commit)
 =======
 >>>>>>> parent of fadba6b7 (trial commit)
