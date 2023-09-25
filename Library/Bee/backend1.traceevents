@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1695665376780207, "dur":4902, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695665376785130, "dur":2306, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695665376787620, "dur":161, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1322,6 +1323,8 @@
 ,{ "pid":12345, "tid":12, "ts":1695665377244925, "dur":394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695665377257389, "dur":3736, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
 ,{ "pid":12345, "tid":0, "ts":1695329147961192, "dur":3418, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695329147964637, "dur":1722, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1695329147966608, "dur":147, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1588,5 +1591,8 @@
 ,{ "pid":12345, "tid":12, "ts":1695329148088566, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":12, "ts":1695329148088660, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.GraphToolsFoundationModule.dll_E2184DF3883B8FB1.mvfrm" }}
 ,{ "pid":12345, "tid":0, "ts":1695329148094660, "dur":1079, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
+>>>>>>> parent of fadba6b7 (trial commit)
+=======
 >>>>>>> parent of fadba6b7 (trial commit)
 ,

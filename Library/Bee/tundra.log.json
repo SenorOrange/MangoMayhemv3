@@ -2141,4 +2141,7 @@
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","index":805,"changes":[{"key":"FileList","value":["Library\\Bee\\artifacts\\900b0aE.dag\\post-processed\\Assembly-CSharp-Editor.dll"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","displayName":"Copying Assembly-CSharp-Editor.dll","index":805}
 {"msg":"noderesult","processed_node_count":804,"number_of_nodes_ever_queued":806,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","index":805,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp-Editor.dll"}
+<<<<<<< HEAD
+>>>>>>> parent of fadba6b7 (trial commit)
+=======
 >>>>>>> parent of fadba6b7 (trial commit)

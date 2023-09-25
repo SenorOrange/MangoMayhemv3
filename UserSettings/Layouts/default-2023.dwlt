@@ -123,9 +123,12 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 17
 --- !u!114 &6
 =======
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
   controlID: 99
 --- !u!114 &3
 >>>>>>> parent of fadba6b7 (trial commit)
@@ -148,10 +151,13 @@ MonoBehaviour:
     width: 300
     height: 947
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
 =======
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
@@ -308,9 +314,12 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 18
 --- !u!114 &13
 =======
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
   controlID: 38
 --- !u!114 &10
 >>>>>>> parent of fadba6b7 (trial commit)
@@ -358,10 +367,13 @@ MonoBehaviour:
     width: 1231
     height: 636
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
 =======
+=======
+>>>>>>> parent of fadba6b7 (trial commit)
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
@@ -474,9 +486,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: fc820000
     m_LastClickedID: 33532
     m_ExpandedIDs: 00000000fc82000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 68660000
+    m_LastClickedID: 26216
+    m_ExpandedIDs: 00000000686600008c660000ce660000da660000b671000000ca9a3bffffff7f
+>>>>>>> parent of fadba6b7 (trial commit)
 =======
     m_SelectedIDs: 68660000
     m_LastClickedID: 26216
@@ -510,7 +528,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000fc820000
+=======
+    m_ExpandedIDs: 0000000068660000
+>>>>>>> parent of fadba6b7 (trial commit)
 =======
     m_ExpandedIDs: 0000000068660000
 >>>>>>> parent of fadba6b7 (trial commit)
@@ -660,9 +682,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: ac840000
       m_LastClickedID: 0
       m_ExpandedIDs: 08fbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 1ee7fffff6eaffff0efbffff82710000
+>>>>>>> parent of fadba6b7 (trial commit)
 =======
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -1184,7 +1212,11 @@ MonoBehaviour:
     m_Target: {x: -303.75015, y: -251.00195, z: 3087.4202}
     speed: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Value: {x: -303.75015, y: -251.00195, z: 3087.4202}
+=======
+    m_Value: {x: 1186.8788, y: -505.57605, z: -19.60917}
+>>>>>>> parent of fadba6b7 (trial commit)
 =======
     m_Value: {x: 1186.8788, y: -505.57605, z: -19.60917}
 >>>>>>> parent of fadba6b7 (trial commit)
@@ -1240,7 +1272,11 @@ MonoBehaviour:
     m_Target: 1047.8064
     speed: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Value: 1047.8064
+=======
+    m_Value: 1982.0648
+>>>>>>> parent of fadba6b7 (trial commit)
 =======
     m_Value: 1982.0648
 >>>>>>> parent of fadba6b7 (trial commit)
